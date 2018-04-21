@@ -11,6 +11,7 @@ const uniqid = require('uniqid');
 const moment = require('moment');
 const isWindows = require('check-if-windows');
 const cmd = require('node-cmd');
+const mv = require('mv');
 
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
