@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name={{name}}
+Exec=pcmanfm {{directory}}
+Icon={{icon-file-name}}
+Terminal=true

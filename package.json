@@ -1,0 +1,23 @@
+{
+    "name": "download_info_server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "async": "^2.6.0",
+        "body-parser": "^1.18.2",
+        "check-if-windows": "^1.0.0",
+        "download-file": "^0.1.5",
+        "express": "^4.16.3",
+        "mkdirp": "^0.5.1",
+        "moment": "^2.22.1",
+        "mv": "^2.1.1",
+        "node-cmd": "^3.0.0",
+        "uniqid": "^4.1.1"
+    }
+}
